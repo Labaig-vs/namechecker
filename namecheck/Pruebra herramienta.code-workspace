@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Pruebra herramienta",
+			"path": ".."
+		},
+		{
+			"name": "api",
+			"path": "../../../Downloads/namecheck/api"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pruebra herramienta"
+	}
+}
